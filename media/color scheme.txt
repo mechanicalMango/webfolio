@@ -1,0 +1,12 @@
+dark theme:
+background color: #21262B
+card color: #353D44
+highlight color: #f5424b
+accent color: red #ED1D24
+text: #A2A2A2
+
+light theme: 
+background color: 
+card color: 
+accent color: 
+text: 
